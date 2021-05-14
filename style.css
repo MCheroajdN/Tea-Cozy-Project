@@ -144,3 +144,13 @@ margin: 15px;
  address {
      line-height: 60px;
  }
+
+ /* footer section*/
+ .contact {
+     height: 200px;
+     line-height: 40px;
+ }
+
+ .copyright {
+     text-align: left;
+ }
