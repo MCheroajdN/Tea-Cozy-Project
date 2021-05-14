@@ -36,4 +36,4 @@ Project is completed as required.
 
 ## Author/Contact
 * M. Christopher - Initial work
-* GitHub: https://mcheroajdn.github.io/Design-System-Guide/
+* GitHub: https://mcheroajdn.github.io/Tea-Cozy-Project/
