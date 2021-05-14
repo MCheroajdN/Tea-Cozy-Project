@@ -154,3 +154,30 @@ margin: 15px;
  .copyright {
      text-align: left;
  }
+
+ /* Media Queries */
+
+ /* header section */
+ @media screen and (max-width: 320px) {
+     .logo {
+         display: block;
+         width: 100%;
+         justify-content: center;
+     }
+
+     nav ul li {
+         /*cursor: pointer;*/
+         color: red;
+         font-size: 1.5em;
+         text-decoration: none;
+         display: block;
+         justify-content: center;
+         font-weight: bold;
+         
+     }
+ }
+
+  @media  scree and (max-width: 768px) {
+      
+     
+ }
