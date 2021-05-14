@@ -98,3 +98,11 @@ margin: 15px;
 .gallery h4 {
       margin:0.5em;
  }
+
+ #locality {
+    background-image: url('images/img-locations-background.webp'); 
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+ }
